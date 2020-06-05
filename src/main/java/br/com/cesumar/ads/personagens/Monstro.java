@@ -5,7 +5,5 @@ public class Monstro extends Personagem{
 
 	private Integer experiencia;
 	// private List<Item> itensLoot;
-
-	
 	
 }
